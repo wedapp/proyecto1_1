@@ -15,6 +15,8 @@
 		9AE3A7BE24685FA8006295DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AE3A7BC24685FA8006295DF /* LaunchScreen.storyboard */; };
 		9AE3A7C924685FA8006295DF /* proyecto1_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE3A7C824685FA8006295DF /* proyecto1_1Tests.swift */; };
 		9AE3A7D424685FA8006295DF /* proyecto1_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE3A7D324685FA8006295DF /* proyecto1_1UITests.swift */; };
+		9AE3A7E224686816006295DF /* WordsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE3A7E124686816006295DF /* WordsViewController.swift */; };
+		9AE3A7E4246869A8006295DF /* MessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AE3A7E3246869A8006295DF /* MessageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		9AE3A7CF24685FA8006295DF /* proyecto1_1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = proyecto1_1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AE3A7D324685FA8006295DF /* proyecto1_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = proyecto1_1UITests.swift; sourceTree = "<group>"; };
 		9AE3A7D524685FA8006295DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AE3A7E124686816006295DF /* WordsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordsViewController.swift; sourceTree = "<group>"; };
+		9AE3A7E3246869A8006295DF /* MessageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				9AE3A7B124685FA2006295DF /* AppDelegate.swift */,
 				9AE3A7B324685FA2006295DF /* SceneDelegate.swift */,
 				9AE3A7B524685FA2006295DF /* ViewController.swift */,
+				9AE3A7E124686816006295DF /* WordsViewController.swift */,
+				9AE3A7E3246869A8006295DF /* MessageViewController.swift */,
 				9AE3A7B724685FA2006295DF /* Main.storyboard */,
 				9AE3A7BA24685FA8006295DF /* Assets.xcassets */,
 				9AE3A7BC24685FA8006295DF /* LaunchScreen.storyboard */,
@@ -261,7 +267,9 @@
 			files = (
 				9AE3A7B624685FA2006295DF /* ViewController.swift in Sources */,
 				9AE3A7B224685FA2006295DF /* AppDelegate.swift in Sources */,
+				9AE3A7E224686816006295DF /* WordsViewController.swift in Sources */,
 				9AE3A7B424685FA2006295DF /* SceneDelegate.swift in Sources */,
+				9AE3A7E4246869A8006295DF /* MessageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
